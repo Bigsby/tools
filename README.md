@@ -6,6 +6,7 @@ List of tools I use.
 |bat|[sharkdp.bat](https://github.com/sharkdp/bat)|highlighted `cat`|
 |fd|[sharkdp.fd](https://github.com/sharkdp/fd)|file find|
 |fzf|[junegunn.fzf](https://github.com/junegunn/fzf)|fuzzy finder|
+|hexyl|[sharkdp.hexyl](https://github.com/sharkdp/hexyl)|colored `hexdump`|
 |jq|[jqlang.jq](https://github.com/jqlang/jq)|JSON query|
 |less|[jftuga.less](https://github.com/jftuga/less-Windows)|pager|
 |lazygit|[JesseDuffield.lazygit](https://github.com/jesseduffield/lazygit)|Git TUI|
