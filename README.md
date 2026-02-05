@@ -1,4 +1,4 @@
-# musts
+# Tools
 List of tools I use.
 
 |name|link|purpose|
