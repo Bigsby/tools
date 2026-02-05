@@ -9,6 +9,7 @@ List of tools I use.
 |jq|[jqlang.jq](https://github.com/jqlang/jq)|JSON query|
 |less|[jftuga.less](https://github.com/jftuga/less-Windows)|pager|
 |lazygit|[JesseDuffield.lazygit](https://github.com/jesseduffield/lazygit)|Git TUI|
+|lazysql|[jorgerojas26.lazysql)](https://github.com/jorgerojas26/lazysql)|DB access TUI|
 |Oh My Posh|[JanDeDobbeleer.OhMyPosh](https://ohmyposh.dev/)|prompt templating|
 |Terminal Icons|[terminal.icons](https://github.com/devblackops/Terminal-Icons)|icons for file/directory listing|
 |tlrc|[tldr-pages.tlrc](https://tldr.sh/)|man/help with examples|
